@@ -1,5 +1,7 @@
 ## Working with Github Repositories in the Github Site
-edited version
+cringe version (totally read)
+
+## please read the "Ben.md" file in the github file manager.
 
 ### Objectives
 * understand what a repository is on github
